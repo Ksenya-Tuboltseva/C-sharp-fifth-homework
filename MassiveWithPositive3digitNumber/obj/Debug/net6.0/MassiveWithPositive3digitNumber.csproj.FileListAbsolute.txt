@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\bin\Debug\net6.0\MassiveWithPositive3digitNumber.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\bin\Debug\net6.0\MassiveWithPositive3digitNumber.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\bin\Debug\net6.0\MassiveWithPositive3digitNumber.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\bin\Debug\net6.0\MassiveWithPositive3digitNumber.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\bin\Debug\net6.0\MassiveWithPositive3digitNumber.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\refint\MassiveWithPositive3digitNumber.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\MassiveWithPositive3digitNumber.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\fifth homework\MassiveWithPositive3digitNumber\obj\Debug\net6.0\ref\MassiveWithPositive3digitNumber.dll
